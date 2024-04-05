@@ -1,4 +1,4 @@
-module github.com/tkinaba/supabase-go
+module github.com/tiagoinaba/supabase-go
 
 go 1.16
 
